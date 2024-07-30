@@ -1,0 +1,7 @@
+.highlight {
+    color: #ffa500; /* Color naranja */
+    font-size: 1.2em; /* Tamaño de fuente más grande */
+    border: 2px solid #ffa500; /* Borde naranja */
+    padding: 5px; /* Espaciado interior */
+    display: inline-block; /* Para que el borde abarque solo el contenido del label */
+}

@@ -29,9 +29,25 @@
 
 @media (prefers-reduced-motion: no-preference) {
   a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
+    animation: logo-spin infinite 4s linear;
   }
 }
+
+.animarCangrejo{
+  animation: logo-spin infinite 3s linear;
+  cursor: pointer;
+}
+
+.animarCangrejo{
+  animation: logo-spin infinite 3s linear;
+
+
+
+}
+
+
+
+
 
 .card {
   padding: 2em;
