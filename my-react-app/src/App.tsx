@@ -93,12 +93,26 @@ const App: React.FC = () => {
 
       <bdo dir="rtl">This text will be written from right to left</bdo>
 
-      // Este es un comentario en JSX
 
-      /*
+      {/*
       Este es un comentario de varias líneas en JSX.
       Puedes usarlo para hacer anotaciones más largas.
-      */
+      */}
+      {/* comentario */}
+
+      {/* <p>This is another paragraph </p> */}
+
+      <p>This {/* great text */} is a paragraph.</p>
+
+      {/* Apartado de colores */}
+      
+      <h1 style={{ backgroundColor: "DodgerBlue" }}>Hola Mundo</h1>
+
+      <h1 style={{ color: "powderblue" }}>This is a heading</h1>
+
+      <p style={{ color: "tomato" }}>Este es otro parrafo con color</p>
+
+      <h1 style={{ border: "2px solid violet" }}>Tengo borde de color</h1>
 
 
     </div>
